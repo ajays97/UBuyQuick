@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UBuyQuick</string>
+
+    <string name="login_terms">By logging in, you agree to the Terms &amp; Conditions of using this account
+    and to The Privacy Policy of UBuyQuick.com</string>
+    <string name="title_activity_home">Shops Near You</string>
+    <string name="title_home">UBQ Home</string>
+</resources>
